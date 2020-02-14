@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizationSwift
+
+  Created by Shafigh Khalili on 2020-02-14.
+  Copyright © 2020 Shafigh Khalili. All rights reserved.
+*/
+
+"newGreeting" = "Njut av appen";
